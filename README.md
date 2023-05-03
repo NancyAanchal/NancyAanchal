@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NancyAanchal
+- 👀 I’m interested in Back-End-Development.
+- 🌱 I’m currently learning Python.
+- 🤓I am always ready to learn.
+- 📫 You can reach me through my email id nancyjha2006@gmail.com.
