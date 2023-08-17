@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @NancyAanchal
-- 👀 I’m interested in Back-End-Development.
-- 🌱 I’m currently learning Python.
-- 🤓I am always ready to learn.
-- 📫 You can reach me through my email id nancyjha2006@gmail.com.
+- I am 17 and have just begun to take coding seriously.
+- 👀 Back-End, Artificial Intelligence, and game development are my field of interest.
+- 🌱 I’m currently enhancing my knowledge of Python frameworks.
+- 🤓I am always a 'ready to learn' coding enthusiast.
+- 📫 You can reach me through my email address nancyjha2006@gmail.com.
