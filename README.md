@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NancyAanchal
-- I am 17 and have just begun to take coding seriously.
+- 😄I am 17 and have just begun to take coding seriously.
 - 👀 Back-End, Artificial Intelligence, and game development are my field of interest.
 - 🌱 I’m currently enhancing my knowledge of Python frameworks.
 - 🤓I am always a 'ready to learn' coding enthusiast.
