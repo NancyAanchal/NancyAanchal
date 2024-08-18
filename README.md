@@ -31,6 +31,6 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nancyaanchal&show_icons=true&locale=en&layout=compact" width="94%"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nancyaanchal" alt="nancyaanchal" /></a> </p>
-![snake gif](https://github.com/nancyaanchal/nancyaanchal/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/nancyaanchal/nancyaanchal/blob/output/github-contribution-grid-snake.svg) -->
 
 
