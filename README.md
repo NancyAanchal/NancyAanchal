@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Aanchal Nancy Jha</h1>
+<h1 align="center">Hi 👋, I'm Nancy</h1>
 <h3 align="center">An emmerging versatile developer from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nancyaanchal" alt="nancyaanchal" /></a> </p>
 
-- 🔭 I’m currently working on [Nepalingo](www.nepalingo.com)
+- 🔭 I’m currently working on [Nepalingo: a website to learn indigenous languages of Nepal](www.nepalingo.com)
 
 - 👨‍💻 All of my projects are available at [https://nancyaanchal.github.io/My-Portfolio/](https://nancyaanchal.github.io/My-Portfolio/)
 
 - 💬 Ask me about **React, Django, React Native, Unity**
 
-- 📫 How to reach me **nancyjha2006@gmail.com**
+- 📫 Reach me through **nancyjha2006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nancyaanchal&show_icons=true&locale=en" alt="nancyaanchal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nancyaanchal&" alt="nancyaanchal" /></p>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nancyaanchal&show_icons=true&locale=en&layout=compact" width="45%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nancyaanchal&show_icons=true&locale=en&layout=compact" width="94%"/>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nancyaanchal" alt="nancyaanchal" /></a> </p>
+
