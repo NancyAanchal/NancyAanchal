@@ -21,7 +21,7 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="www.linkedin.com/in/aanchal-nancy-jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanchal nancy jha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aanchal-nancy-jha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanchal nancy jha" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nancy.aanchal.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nancy aanchal" height="30" width="40" /></a>
 <a href="https://instagram.com/nancy___aanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nancy___aanchal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ANJSyntax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anjsyntax" height="30" width="40" /></a>
