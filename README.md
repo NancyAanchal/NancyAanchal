@@ -28,7 +28,7 @@
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nancyaanchal&theme=transparent&hide_border=true" alt="streak graph"  /></p>
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nancyaanchal&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact" width="45%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nancyaanchal&theme=transparent&hide_border=false&show_icons=true&locale=en&layout=compact" width="45%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nancyaanchal&theme=transparent&hide_border=true&show_icons=true&locale=en&layout=compact" width="94%"/>
 <div align="center">
 
