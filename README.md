@@ -23,16 +23,16 @@
 
 <h3 align="left">Github Stats:</h3>
 <div align="center">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nancyaanchal&show_icons=true&locale=en" alt="nancyaanchal" /></p>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nancyaanchal&show_icons=true&locale=en&layout=compact" alt="nancyaanchal" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nancyaanchal&theme=transparent&hide_border=false&show_icons=true&locale=en" alt="nancyaanchal" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nancyaanchal&theme=transparent&hide_border=false&show_icons=true&locale=en&layout=compact" alt="nancyaanchal" /></p>
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nancyaanchal&" alt="nancyaanchal" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nancyaanchal&theme=transparent&hide_border=false alt="streak graph"  /></p>
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nancyaanchal&show_icons=true&locale=en&layout=compact" width="45%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nancyaanchal&show_icons=true&locale=en&layout=compact" width="94%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nancyaanchal&theme=transparent&hide_border=false&show_icons=true&locale=en&layout=compact" width="45%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nancyaanchal&theme=transparent&hide_border=false&show_icons=true&locale=en&layout=compact" width="94%"/>
 <div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nancyaanchal" alt="nancyaanchal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nancyaanchal&theme=transparent&hide_border=false" alt="nancyaanchal" /></a> </p>
 <!-- ![snake gif](https://github.com/nancyaanchal/nancyaanchal/blob/output/github-contribution-grid-snake.svg) -->
 
 
