@@ -8,7 +8,7 @@
 <h2 align="center">An emmerging versatile developer from Nepal</h2>
 
 
-  - 🔭 I’m currently working on [Nepalingo: a website to learn indigenous languages of Nepal](www.nepalingo.com)
+  - 🔭 I’m currently working on [CareerArk: A career counselling website](https://github.com/NancyAanchal/CareerArk)
   
   - 👨‍💻 All of my projects are available at [https://nancyaanchal.github.io/My-Portfolio/](https://nancyaanchal.github.io/My-Portfolio/)
   
