@@ -8,11 +8,9 @@
 <h2 align="center">An emmerging versatile developer from Nepal</h2>
 
 
-  - 🔭 I’m currently working on [CareerArk: A career counselling website](https://github.com/NancyAanchal/CareerArk)
+ <!-- - 🔭 I’m currently working on [CareerArk: A career counselling website](https://github.com/NancyAanchal/CareerArk) -->
   
   - 👨‍💻 All of my projects are available at [https://nancyaanchal.github.io/My-Portfolio/](https://nancyaanchal.github.io/My-Portfolio/)
-  
-  - 💬 Ask me about **React, Django, React Native, Unity**
   
   - 📫 Reach me through **nancyjha2006@gmail.com**
   
