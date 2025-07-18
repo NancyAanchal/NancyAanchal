@@ -5,12 +5,12 @@
       <img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=I+am+an+emerging+versatile+developer.;I+am+actively+into+Fullstack+development.;I+love+mobile+devlopment too.;Game+development+is+my+passion.;I+am+also+an+AI+enthusiast.;I+am+an+eager+ready-to-learn+tech+enthusiast.;">
     </picture>
 </div> -->
-<h2 align="center">An emmerging versatile developer from Nepal</h2>
+<h2 align="center">An emmerging versatile developer</h2>
 
 
  <!-- - 🔭 I’m currently working on [CareerArk: A career counselling website](https://github.com/NancyAanchal/CareerArk) -->
   
-  - 👨‍💻 All of my projects are available at [https://nancyaanchal.github.io/My-Portfolio/](https://nancyaanchal.github.io/My-Portfolio/)
+<!--   - 👨‍💻 All of my projects are available at [https://nancyaanchal.github.io/My-Portfolio/](https://nancyaanchal.github.io/My-Portfolio/)-->
   
   - 📫 Reach me through **nancyjha2006@gmail.com**
   
